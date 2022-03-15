@@ -4,7 +4,7 @@ Multi-Channel Convolutional Analysis Operator Learning for Dual-Energy CT Recons
 This repository contains the Matlab code for the MCAOL training and reconstruction methods with the XCAT Dual energy CT (DECT) dataset. 
 
 Subdirectories:
-●	MCAOL-Testing: main script and function to perform MCAOL Dual energy CT reconstruction;
+MCAOL-Testing: main script and function to perform MCAOL Dual energy CT reconstruction;
 ●	MCAOL-Training: main script and function to perform the training of the convolutional filters using MCAOL;
 ●	data: XCAT DECT dataset;
 ●	Utilis: L-BFGS solver and CT operators
